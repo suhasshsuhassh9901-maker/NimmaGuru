@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nimma Guru</string>
+    <string name="tagline">Community Mentorship Platform</string>
+
+    <!-- Auth -->
+    <string name="title_create_account">Create Account</string>
+    <string name="title_edit_profile">Edit Profile</string>
+    <string name="title_create_profile">Create Profile</string>
+    <string name="subtitle_register">Join as a Guru or Student</string>
+    <string name="subtitle_create_profile">Tell students who you are and what you teach</string>
+    <string name="subtitle_edit_profile">Keep your profile up to date</string>
+    <string name="role_guru">I am a Guru</string>
+    <string name="role_student">I am a Student</string>
+
+    <!-- Dashboard -->
+    <string name="title_dashboard">My Dashboard</string>
+    <string name="title_find_guru">Find a Guru</string>
+    <string name="title_my_schedule">My Schedule</string>
+    <string name="title_add_session">Add Session</string>
+    <string name="title_student_requests">Student Requests</string>
+    <string name="title_apply">Apply to Join</string>
+    <string name="title_my_classes">My Classes</string>
+
+    <!-- Stats -->
+    <string name="thank_yous">Thank You\'s</string>
+    <string name="sessions">sessions</string>
+    <string name="pending">Pending</string>
+    <string name="applied">Applied</string>
+    <string name="approved">Approved</string>
+    <string name="sessions_available">sessions available</string>
+
+    <!-- Actions -->
+    <string name="btn_login">Login</string>
+    <string name="btn_create_account">Create New Account</string>
+    <string name="btn_save_profile">Save Profile</string>
+    <string name="btn_add_session">Add Session</string>
+    <string name="btn_search">Search</string>
+    <string name="search_village">Search by village or skill...</string>
+    <string name="btn_add_slot">Add Day/Time Slot</string>
+    <string name="desc_remove_slot">Remove slot</string>
+    <string name="btn_apply">Apply to Join</string>
+    <string name="btn_send_application">Send Application</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="btn_approve">Approve</string>
+    <string name="btn_reject">Reject</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Hints -->
+    <string name="hint_email">Email address</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_password_min">Password (min 6 characters)</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_village">Village / Area</string>
+    <string name="hint_skills">Skills (e.g. Math, Science, Kannada)</string>
+    <string name="hint_skills_sub">Separate multiple skills with commas</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_bio">About you (Bio)</string>
+    <string name="hint_subject">Subject (e.g. 10th Grade Math)</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_your_name">Your Full Name</string>
+    <string name="hint_grade">Grade / Standard</string>
+    <string name="hint_note">Note to Guru (optional)</string>
+
+    <!-- Labels -->
+    <string name="label_day">Day of Week</string>
+    <string name="label_start_time">Start Time</string>
+    <string name="label_end_time">End Time</string>
+    <string name="label_date_range">Class Date Range</string>
+    <string name="label_start_date">Start Date</string>
+    <string name="label_end_date">End Date</string>
+    <string name="label_max_students">Maximum Students</string>
+    <string name="teaching_language">Teaching Language</string>
+    <string name="max_students">Max students</string>
+    <string name="students">students</string>
+    <string name="up_to">Up to</string>
+    <string name="language">Language</string>
+    <string name="phone">Phone</string>
+    <string name="on">on</string>
+    <string name="grade">Grade</string>
+
+    <!-- Cards -->
+    <string name="edit_profile">Edit My Profile</string>
+    <string name="edit_profile_sub">Update skills, bio and contact</string>
+    <string name="my_schedule">My Schedule</string>
+    <string name="manage_sessions">Manage class sessions</string>
+    <string name="student_requests">Student Requests</string>
+    <string name="view_applications">View applications</string>
+    <string name="find_a_guru">Find a Guru</string>
+    <string name="browse_mentors">Browse mentors in your village</string>
+    <string name="my_classes">My Classes</string>
+    <string name="view_class_calendar">View your class calendar</string>
+    <string name="welcome_back">Welcome back,</string>
+    <string name="student">Student</string>
+    <string name="available_sessions">Available Sessions</string>
+
+    <!-- Calendar -->
+    <string name="classes_on">Classes on</string>
+    <string name="no_classes_day">No classes scheduled for this day.</string>
+    <string name="no_approved_classes">No approved classes yet.</string>
+    <string name="confirmed_class">Confirmed class</string>
+
+    <!-- Apply -->
+    <string name="applying_to">Applying to</string>
+    <string name="applying_to_label">Applying to</string>
+
+    <!-- Status -->
+    <string name="status_approved">APPROVED</string>
+    <string name="status_rejected">REJECTED</string>
+    <string name="status_pending">PENDING</string>
+
+    <!-- Appreciation -->
+    <string name="title_appreciation">Send Thank You</string>
+    <string name="thank_guru">Thank %1$s</string>
+    <string name="send_thanks_to">Send a Thank You to %1$s 🙏</string>
+    <string name="hint_message">Your Message</string>
+    <string name="btn_send_thanks">Send Thank You</string>
+    <string name="thanks_sent">Thank You sent! 🙏</string>
+
+    <!-- Misc -->
+    <string name="profile_saved">Profile saved successfully.</string>
+    <string name="session_added">Session added successfully.</string>
+    <string name="application_sent">Application sent. The Guru will review it.</string>
+    <string name="gurus_available">gurus available</string>
+    <string name="gurus_found">gurus found</string>
+    <string name="no_sessions_yet">No sessions yet.\nTap + to add your first class.</string>
+    <string name="no_sessions_scheduled">No sessions scheduled yet.</string>
+    <string name="no_applications">No applications yet.</string>
+    <string name="no_phone">No phone listed</string>
+    <string name="not_listed">Not listed</string>
+    <string name="unknown_session">Unknown session</string>
+    <string name="default_bio">Passionate about teaching and giving back to the community.</string>
+    <string name="confirm_delete">Delete session?</string>
+
+    <!-- Errors -->
+    <string name="error_fill_all">Please fill all fields</string>
+    <string name="error_login_failed">Login failed. Please check your credentials.</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_required_fields">Name, village and skills are required</string>
+    <string name="error_subject_required">Subject is required</string>
+    <string name="error_time_order">End time must be after start time</string>
+    <string name="error_slot_overlap">This time slot overlaps with an existing one</string>
+    <string name="error_pick_dates">Please select both start and end dates</string>
+    <string name="error_start_past">Start date cannot be in the past</string>
+    <string name="error_pick_start_first">Please select a start date first</string>
+    <string name="error_name_required">Please enter your name</string>
+    <string name="error_already_applied">You have already applied to this session.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+
+    <!-- Array -->
+    <string-array name="languages">
+        <item>English</item>
+        <item>Kannada</item>
+        <item>Both</item>
+    </string-array>
+</resources>
+

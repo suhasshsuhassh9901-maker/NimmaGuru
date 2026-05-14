@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="primary">#E65100</color>          <!-- Deep saffron -->
+    <color name="primary_dark">#1A237E</color>      <!-- Indigo -->
+    <color name="secondary">#2E7D32</color>         <!-- Forest green -->
+    <color name="error">#C62828</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_light">#FEF9F3</color>          <!-- Creamy off-white -->
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#6B7280</color>
+
+    <!-- UI -->
+    <color name="divider">#EBEBEB</color>
+
+    <!-- Accent lights (for icon circles) -->
+    <color name="accent_light">#FFF3E0</color>      <!-- Saffron tint -->
+    <color name="green_light">#E8F5E9</color>
+    <color name="blue_light">#E8EAF6</color>
+
+    <!-- Project Specific -->
+    <color name="saffron">#FF9933</color>
+    <color name="bg_cream">#FFFDD0</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="blue_chakra">#000080</color>
+    <color name="deep_maroon">#800000</color>
+</resources>

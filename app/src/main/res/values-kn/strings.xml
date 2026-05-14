@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಿಮ್ಮ ಗುರು</string>
+    <string name="tagline">ಸಮುದಾಯ ಮಾರ್ಗದರ್ಶನ ವೇದಿಕೆ</string>
+
+    <string name="title_create_account">ಖಾತೆ ತೆರೆಯಿರಿ</string>
+    <string name="title_edit_profile">ಪ್ರೊಫೈಲ್ ತಿದ್ದಿರಿ</string>
+    <string name="title_create_profile">ಪ್ರೊಫೈಲ್ ಮಾಡಿ</string>
+    <string name="subtitle_register">ಗುರು ಅಥವಾ ವಿದ್ಯಾರ್ಥಿಯಾಗಿ ಸೇರಿ</string>
+    <string name="subtitle_create_profile">ನೀವು ಯಾರು ಮತ್ತು ಏನು ಕಲಿಸುತ್ತೀರಿ ಎಂದು ತಿಳಿಸಿ</string>
+    <string name="subtitle_edit_profile">ನಿಮ್ಮ ಮಾಹಿತಿ ನವೀಕರಿಸಿ</string>
+    <string name="role_guru">ನಾನು ಗುರು</string>
+    <string name="role_student">ನಾನು ವಿದ್ಯಾರ್ಥಿ</string>
+
+    <string name="title_dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="title_find_guru">ಗುರು ಹುಡುಕಿ</string>
+    <string name="title_my_schedule">ನನ್ನ ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="title_add_session">ತರಗತಿ ಸೇರಿಸಿ</string>
+    <string name="title_student_requests">ವಿದ್ಯಾರ್ಥಿ ವಿನಂತಿಗಳು</string>
+    <string name="title_apply">ಸೇರಲು ಅರ್ಜಿ</string>
+    <string name="title_my_classes">ನನ್ನ ತರಗತಿಗಳು</string>
+
+    <string name="thank_yous">ಧನ್ಯವಾದಗಳು</string>
+    <string name="sessions">ತರಗತಿಗಳು</string>
+    <string name="pending">ಬಾಕಿ</string>
+    <string name="applied">ಅರ್ಜಿ ಸಲ್ಲಿಸಿದೆ</string>
+    <string name="approved">ಒಪ್ಪಿಗೆ</string>
+    <string name="sessions_available">ತರಗತಿಗಳು ಲಭ್ಯ</string>
+
+    <string name="btn_login">ಲಾಗಿನ್</string>
+    <string name="btn_create_account">ಹೊಸ ಖಾತೆ ತೆರೆಯಿರಿ</string>
+    <string name="btn_save_profile">ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ</string>
+    <string name="btn_add_session">ತರಗತಿ ಸೇರಿಸಿ</string>
+    <string name="btn_search">ಹುಡುಕಿ</string>
+    <string name="btn_add_slot">ದಿನ/ಸಮಯ ಸೇರಿಸಿ</string>
+    <string name="desc_remove_slot">ಸಮಯವನ್ನು ತೆಗೆದುಹಾಕಿ</string>
+    <string name="btn_apply">ಸೇರಲು ಅರ್ಜಿ</string>
+    <string name="btn_send_application">ಅರ್ಜಿ ಕಳುಹಿಸಿ</string>
+    <string name="btn_sign_out">ಹೊರ ನಡೆ</string>
+    <string name="btn_approve">ಒಪ್ಪಿಗೆ</string>
+    <string name="btn_reject">ತಿರಸ್ಕರಿಸಿ</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+    <string name="cancel">ರದ್ದು</string>
+
+    <string name="hint_email">ಇಮೇಲ್ ವಿಳಾಸ</string>
+    <string name="hint_password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="hint_password_min">ಪಾಸ್‌ವರ್ಡ್ (ಕನಿಷ್ಠ 6 ಅಕ್ಷರ)</string>
+    <string name="hint_full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="hint_village">ಊರು / ಪ್ರದೇಶ</string>
+    <string name="hint_skills">ವಿಷಯಗಳು (ಉದಾ: ಗಣಿತ, ವಿಜ್ಞಾನ)</string>
+    <string name="hint_skills_sub">ಅಲ್ಪವಿರಾಮದಿಂದ ಬೇರ್ಪಡಿಸಿ</string>
+    <string name="hint_phone">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="hint_bio">ನಿಮ್ಮ ಬಗ್ಗೆ</string>
+    <string name="hint_subject">ವಿಷಯ (ಉದಾ: 10ನೇ ತರಗತಿ ಗಣಿತ)</string>
+    <string name="hint_location">ಸ್ಥಳ</string>
+    <string name="hint_your_name">ನಿಮ್ಮ ಹೆಸರು</string>
+    <string name="hint_grade">ತರಗತಿ / ಶ್ರೇಣಿ</string>
+    <string name="hint_note">ಗುರುಗಳಿಗೆ ಟಿಪ್ಪಣಿ (ಐಚ್ಛಿಕ)</string>
+
+    <string name="label_day">ವಾರದ ದಿನ</string>
+    <string name="label_start_time">ಆರಂಭ ಸಮಯ</string>
+    <string name="label_end_time">ಮುಕ್ತಾಯ ಸಮಯ</string>
+    <string name="label_date_range">ತರಗತಿ ದಿನಾಂಕ ವ್ಯಾಪ್ತಿ</string>
+    <string name="label_start_date">ಆರಂಭ ದಿನಾಂಕ</string>
+    <string name="label_end_date">ಮುಕ್ತಾಯ ದಿನಾಂಕ</string>
+    <string name="label_max_students">ಗರಿಷ್ಠ ವಿದ್ಯಾರ್ಥಿಗಳು</string>
+    <string name="teaching_language">ಬೋಧನಾ ಭಾಷೆ</string>
+    <string name="max_students">ಗರಿಷ್ಠ ವಿದ್ಯಾರ್ಥಿಗಳು</string>
+    <string name="students">ವಿದ್ಯಾರ್ಥಿಗಳು</string>
+    <string name="up_to">ಹೆಚ್ಚೆಂದರೆ</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="phone">ಫೋನ್</string>
+    <string name="on">ರಂದು</string>
+    <string name="grade">ತರಗತಿ</string>
+
+    <string name="edit_profile">ಪ್ರೊಫೈಲ್ ತಿದ್ದಿರಿ</string>
+    <string name="edit_profile_sub">ಕೌಶಲ್ಯ, ಬಯೋ ಮತ್ತು ಸಂಪರ್ಕ ನವೀಕರಿಸಿ</string>
+    <string name="my_schedule">ನನ್ನ ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="manage_sessions">ತರಗತಿ ಸೆಷನ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ</string>
+    <string name="student_requests">ವಿದ್ಯಾರ್ಥಿ ವಿನಂತಿಗಳು</string>
+    <string name="view_applications">ಅರ್ಜಿಗಳನ್ನು ನೋಡಿ</string>
+    <string name="find_a_guru">ಗುರು ಹುಡುಕಿ</string>
+    <string name="browse_mentors">ನಿಮ್ಮ ಊರಿನ ಮಾರ್ಗದರ್ಶಕರನ್ನು ಹುಡುಕಿ</string>
+    <string name="my_classes">ನನ್ನ ತರಗತಿಗಳು</string>
+    <string name="view_class_calendar">ನಿಮ್ಮ ತರಗತಿ ಕ್ಯಾಲೆಂಡರ್ ನೋಡಿ</string>
+    <string name="welcome_back">ಮತ್ತೆ ಸ್ವಾಗತ,</string>
+    <string name="student">ವಿದ್ಯಾರ್ಥಿ</string>
+    <string name="available_sessions">ಲಭ್ಯ ತರಗತಿಗಳು</string>
+
+    <string name="classes_on">ತರಗತಿಗಳು</string>
+    <string name="no_classes_day">ಇಂದು ತರಗತಿ ಇಲ್ಲ.</string>
+    <string name="no_approved_classes">ಇನ್ನೂ ಒಪ್ಪಿಗೆಯಾದ ತರಗತಿ ಇಲ್ಲ.</string>
+    <string name="confirmed_class">ದೃಢಪಡಿಸಿದ ತರಗತಿ</string>
+
+    <string name="applying_to">ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಿದ್ದೇನೆ</string>
+    <string name="applying_to_label">ಅರ್ಜಿ ಸಲ್ಲಿಸುತ್ತಿದ್ದೇನೆ</string>
+
+    <string name="status_approved">ಒಪ್ಪಿಗೆ</string>
+    <string name="status_rejected">ತಿರಸ್ಕೃತ</string>
+    <string name="status_pending">ಬಾಕಿ</string>
+
+    <string name="profile_saved">ಪ್ರೊಫೈಲ್ ಉಳಿಸಲಾಗಿದೆ.</string>
+    <string name="session_added">ತರಗತಿ ಸೇರಿಸಲಾಗಿದೆ.</string>
+    <string name="application_sent">ಅರ್ಜಿ ಕಳುಹಿಸಲಾಗಿದೆ. ಗುರು ಪರಿಶೀಲಿಸುತ್ತಾರೆ.</string>
+    <string name="gurus_available">ಗುರುಗಳು ಲಭ್ಯ</string>
+    <string name="gurus_found">ಗುರುಗಳು ಸಿಕ್ಕಿದ್ದಾರೆ</string>
+    <string name="no_sessions_yet">ಇನ್ನೂ ತರಗತಿ ಇಲ್ಲ.\n+ ಒತ್ತಿ ಮೊದಲ ತರಗತಿ ಸೇರಿಸಿ.</string>
+    <string name="no_sessions_scheduled">ಇನ್ನೂ ಯಾವುದೇ ತರಗತಿಗಳನ್ನು ನಿಗದಿಪಡಿಸಲಾಗಿಲ್ಲ.</string>
+    <string name="no_applications">ಇನ್ನೂ ಅರ್ಜಿ ಇಲ್ಲ.</string>
+    <string name="no_phone">ಫೋನ್ ಇಲ್ಲ</string>
+    <string name="not_listed">ನಮೂದಿಸಿಲ್ಲ</string>
+    <string name="unknown_session">ಅಜ್ಞಾತ ತರಗತಿ</string>
+    <string name="default_bio">ಕಲಿಸಲು ಮತ್ತು ಸಮುದಾಯಕ್ಕೆ ಸೇವೆ ಸಲ್ಲಿಸಲು ಉತ್ಸುಕ.</string>
+    <string name="confirm_delete">ತರಗತಿ ಅಳಿಸಬೇಕೆ?</string>
+
+    <string name="error_fill_all">ಎಲ್ಲ ಅಂಶಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ</string>
+    <string name="error_login_failed">ಲಾಗಿನ್ ವಿಫಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="error_password_short">ಪಾಸ್‌ವರ್ಡ್ ಕನಿಷ್ಠ 6 ಅಕ್ಷರ ಇರಬೇಕು</string>
+    <string name="error_required_fields">ಹೆಸರು, ಊರು ಮತ್ತು ವಿಷಯ ಅಗತ್ಯ</string>
+    <string name="error_subject_required">ವಿಷಯ ಅಗತ್ಯ</string>
+    <string name="error_time_order">ಮುಕ್ತಾಯ ಸಮಯ ಆರಂಭ ಸಮಯದ ನಂತರ ಇರಬೇಕು</string>
+    <string name="error_pick_dates">ಆರಂಭ ಮತ್ತು ಮುಕ್ತಾಯ ದಿನಾಂಕ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="error_start_past">ಆರಂಭ ದಿನಾಂಕ ಭೂತಕಾಲದಲ್ಲಿ ಇರಬಾರದು</string>
+    <string name="error_pick_start_first">ಮೊದಲು ಆರಂಭ ದಿನಾಂಕ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="error_name_required">ನಿಮ್ಮ ಹೆಸರು ನಮೂದಿಸಿ</string>
+    <string name="error_already_applied">ನೀವು ಈ ತರಗತಿಗೆ ಈಗಾಗಲೇ ಅರ್ಜಿ ಸಲ್ಲಿಸಿದ್ದೀರಿ.</string>
+    <string name="error_slot_overlap">ಈ ಸಮಯವು ಈಗಾಗಲೇ ಇರುವ ಸಮಯದೊಂದಿಗೆ ಅತಿಕ್ರಮಿಸುತ್ತದೆ</string>
+    <string name="error_generic">ಏನೋ ತಪ್ಪಾಗಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+
+    <string-array name="languages">
+        <item>ಇಂಗ್ಲಿಷ್</item>
+        <item>ಕನ್ನಡ</item>
+        <item>ಎರಡೂ</item>
+    </string-array>
+</resources>

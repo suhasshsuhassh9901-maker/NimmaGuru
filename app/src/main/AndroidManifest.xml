@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".NimmaGuruApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NimmaGuru">
+
+        <activity android:name=".ui.auth.LoginActivity" android:exported="true"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ui.auth.RegisterActivity" android:exported="false"
+            android:windowSoftInputMode="adjustResize"/>
+        <activity android:name=".ui.guru.GuruDashboardActivity" android:exported="false"/>
+        <activity android:name=".ui.guru.GuruEditProfileActivity" android:exported="false"
+            android:windowSoftInputMode="adjustResize"/>
+        <activity android:name=".ui.guru.GuruScheduleActivity" android:exported="false"/>
+        <activity android:name=".ui.guru.AddScheduleActivity" android:exported="false"
+            android:windowSoftInputMode="adjustResize"/>
+        <activity android:name=".ui.guru.ApplicationsActivity" android:exported="false"/>
+        <activity android:name=".ui.student.StudentDashboardActivity" android:exported="false"/>
+        <activity android:name=".ui.student.GuruListActivity" android:exported="false"/>
+        <activity android:name=".ui.student.GuruDetailActivity" android:exported="false"/>
+        <activity android:name=".ui.student.ApplyActivity" android:exported="false"
+            android:windowSoftInputMode="adjustResize"/>
+        <activity android:name=".ui.student.MyScheduleActivity" android:exported="false"/>
+        <activity android:name=".ui.appreciation.AppreciationActivity" android:exported="false"
+            android:windowSoftInputMode="adjustResize"/>
+    </application>
+</manifest>
